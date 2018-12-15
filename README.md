@@ -4,4 +4,4 @@ testrepo
 hello from asus
 
 
-hello from code 2 folder
+hello from code 2
