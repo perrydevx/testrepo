@@ -1,2 +1,0 @@
-publc class Dog {
-}
